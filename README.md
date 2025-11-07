@@ -28,12 +28,8 @@ This solution is lightweight, modular, and can be used on both **recorded CCTV f
 
 ## Video Source
 
-- **Source Type:** Real-time webcam or recorded CCTV footage.  
-- **Example Used:**  
-  - Custom surveillance-style video (you can replace it with any dataset or YouTube video).  
-  - Example dataset suggestion: [MALL Dataset – CUHK](https://www.ee.cuhk.edu.hk/~xgwang/Mall.html)  
-  - Example YouTube video (for educational use):  
-    “Shopping Mall Entrance Footage” — https://www.youtube.com/watch?v=aqz-KE-bpKQ
+- **Source Type:** Youtube Video
+    “Shopping Mall Entrance Footage” — 'https://www.youtube.com/watch?v=gAuJlwnUqMs'
 
 To test with your own video, replace:
 ```python
